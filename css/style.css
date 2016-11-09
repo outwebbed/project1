@@ -6,3 +6,8 @@
 	padding: 25px;
 	text-align: center;
 }
+
+.evenBolder{
+	font-size: 2em;
+	color: red;
+}
