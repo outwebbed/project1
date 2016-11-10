@@ -11,3 +11,7 @@
 	font-size: 2em;
 	color: red;
 }
+
+.newStyle {
+	border: 5px solid red;
+}
