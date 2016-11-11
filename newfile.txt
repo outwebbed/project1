@@ -1,4 +1,6 @@
 This is my new file. Great!
 Added a second line.
 
+Orange.
+
 Unicorns.
